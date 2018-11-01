@@ -1,0 +1,10 @@
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\bin\Debug\BGLibScanner.exe
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\bin\Debug\BGLibScanner.pdb
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\myBLEScanner.csprojAssemblyReference.cache
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\BLEScanner.frmMain.resources
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\BLEScanner.Properties.Resources.resources
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\myBLEScanner.csproj.GenerateResource.cache
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\myBLEScanner.csproj.CoreCompileInputs.cache
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\BGLibScanner.exe
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\BGLibScanner.pdb
+D:\MICOM_Study\BlueGiga\MyPrj\BLE_Scanner\obj\x86\Debug\BLEScanner.frmSBrick.resources
